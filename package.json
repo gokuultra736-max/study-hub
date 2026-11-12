@@ -1,0 +1,10 @@
+{
+  "name": "ncert-study-hub-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page for the NCERT Study Hub Android app",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-site.mjs"
+  }
+}
