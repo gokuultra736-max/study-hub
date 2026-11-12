@@ -1,0 +1,6 @@
+{
+  "name": "NCERT Study Hub",
+  "description": "Comprehensive NCERT 2026 study suite for Classes 5 to 12 with offline books, timetable, homework tracking, flashcards, and quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
